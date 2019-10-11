@@ -1,0 +1,17 @@
+body {
+    margin: 100px auto;
+    border : 2px solid black;
+    width: 900px;
+    padding: 20px;
+    background-color:  white;
+    text-align: center;
+}
+html  {
+    background-image: url('images/mario-kart-tour-cover.cover_large.jpg');
+}
+.main{
+    background-color: white;
+}
+#banana  {
+    border-image: url(banana.png) 30   round;
+}
